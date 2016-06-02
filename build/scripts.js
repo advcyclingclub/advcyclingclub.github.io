@@ -11,6 +11,7 @@ var swiper = new Swiper('.swiper-container', {
 	prevButton: '.swiper-button-prev',
 	spaceBetween: 30,
 	loop: true,
+	hashnav: true,
 	effect: 'fade'
 });
 
