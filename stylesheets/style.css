@@ -56,6 +56,13 @@ body.open {
   .logo-link img {
     width: 100%; }
 
+.sidenav-logo {
+  width: 150px;
+  display: block;
+  margin-left: 31px; }
+  .sidenav-logo img {
+    width: 100%; }
+
 .nav > li {
   float: none;
   margin-left: 0; }

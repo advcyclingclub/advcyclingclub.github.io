@@ -70,6 +70,16 @@ body.open {
 	}
 }
 
+.sidenav-logo {
+	width: 150px;
+	display: block;
+	margin-left: 31px;
+	
+	img {
+		width: 100%;
+	}
+}
+
 .nav {
 	> li {
 		float: none;
