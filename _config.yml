@@ -25,16 +25,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nycadv
 github_username:  nycadv
 instagram_username: nycadv
-
 sass:
-    sass_dir: _sass
-	style: compressed
-#sass:
-#    style: compressed
+ sass_dir: _sass
+ style: compressed	
 
 # Build settings
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
-  - Gemfile.lock
+  - Gemfile.loc
+
+collections:
+ rides:
+ output: true

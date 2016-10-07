@@ -2,8 +2,16 @@
 layout: base
 title:  "Hello World"
 date:   2016-10-07 10:11:18 -0400
-categories: undefined
+categories: blog
 ---
+
+# asdfas df
+
+## Somethins special
+
+### Yeah what next
+
+### hahaahah
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -13,3 +21,4 @@ Jekyll also offers powerful support for code snippets:
 
 which is shown in the screenshot below:
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.png)
+
