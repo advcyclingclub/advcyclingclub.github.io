@@ -38,4 +38,4 @@ exclude:
 
 collections:
  rides:
- output: true
+   output: true

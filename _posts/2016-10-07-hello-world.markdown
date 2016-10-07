@@ -3,6 +3,7 @@ layout: base
 title:  "Hello World"
 date:   2016-10-07 10:11:18 -0400
 categories: blog
+author: colin
 ---
 
 # asdfas df
@@ -21,4 +22,6 @@ Jekyll also offers powerful support for code snippets:
 
 which is shown in the screenshot below:
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.png)
+
+
 
