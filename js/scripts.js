@@ -1,20 +1,47 @@
+//////////////////////////////////////
+// Initialize
+//////////////////////////////////////
+var scollPosition;
+
+function init() {
+	
+	var swiper = new Swiper('.swiper-container', {
+		pagination: '.swiper-pagination',
+		paginationClickable: true,
+		nextButton: '.swiper-button-next',
+		prevButton: '.swiper-button-prev',
+		spaceBetween: 30,
+		loop: true,
+		hashnav: true,
+		effect: 'fade'
+	});
+	
+	$('#hero').addClass('background-move');
+	
+}
+init();
+
+
+
+//////////////////////////////////////
+// Events
+//////////////////////////////////////
+
+$(window).scroll(function() {
+	scollPosition = $(window).scrollTop();
+	
+	console.log(scollPosition);
+	if (scollPosition > 200) {
+		$('.logo').addClass('active');
+	} else {
+		$('.logo').removeClass('active');
+	}
+});
+
+
 $('#menu').on('click', function() {
   $(document.body).toggleClass('open');
 });
-
-
-
-var swiper = new Swiper('.swiper-container', {
-	pagination: '.swiper-pagination',
-	paginationClickable: true,
-	nextButton: '.swiper-button-next',
-	prevButton: '.swiper-button-prev',
-	spaceBetween: 30,
-	loop: true,
-	hashnav: true,
-	effect: 'fade'
-});
-
 
 $('.thumbnail').click(function (e) {
 	var thumb = $('.thumbnail').index(this) +1;
@@ -26,7 +53,7 @@ $('.thumbnail').click(function (e) {
 	e.preventDefault();
 });
 
-$('#hero').addClass('background-move');
+
 
 
 /*

@@ -17,11 +17,21 @@
 		<a href="{{ post.url }}">{{ post.title }}</a>
 		{{ content }}
 		
-		<a href="#" class="col-md-4">
-			<div class="hover-action">
-				<span class="action-slash"></span>
-				<img src="http://placekitten.com/200/300">
-			</div>
-		</a>
+		<div class="col-md-4">
+			<figure>
+			  <img src="http://placekitten.com/600/400">
+			  <figcaption>Fig.1 - A view of the pulpit rock in Norway.</figcaption>
+			</figure>
+		</div>
+		
+		<div class="col-md-4"> 
+			<a href="#">
+				<div class="hover-action">
+					<span class="action-slash"></span>
+					<img src="http://placekitten.com/600/400">
+				</div>
+			</a>
+		</div>
+		
 	</div>
 {% include footer.html %}

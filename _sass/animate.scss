@@ -19,21 +19,58 @@
 	z-index: 0;
 	top: 50%;
 	left: 50%;
-	width: 100%;
+	width: 25%;
 	height: auto;
 	padding-bottom: 100%;
 	opacity: .75;
 	transform-origin: 50% 50%;
-	transform: translateX(-50%) translateY(-50%) rotate(45deg) scale(0);
-	transition: all .6s ease-in-out;
+	//transform: translateX(-50%) translateY(-50%) rotate(45deg) scale(0);
 	
-	background-color: #FF1C0F;
+	transform: translateX(-50%) translateY(-50%) skew(-25deg) scale(0);
+	transition: all .45s ease-in-out;
+	
+	background-color: $primaryBlue;
 }
 
 a:hover {
 	
 	.action-slash {
-	    transform: translateX(-50%) translateY(-50%) rotate(45deg) scale(2);
+	    transform: translateX(-50%) translateY(-50%) skew(-25deg) scale(6);
 	}
 	
+}
+
+
+.logo {
+	svg {
+		cursor: pointer;
+		g{
+			transform: translate(0,0);
+			transition: all .75s cubic-bezier(.61,.03,.32,.92)0ms;
+		}
+	}
+	
+	&.active {
+		.n {
+			  transform: translate(-150%,0);
+		}
+		.y {
+			transform: translate(-100%,0);
+		}
+		.c {
+			transform:translate(-350%,0);
+		}
+		
+		&:hover {
+			.n {
+				  transform: translate(0%,0);
+			}
+			.y {
+				transform: translate(0%,0);
+			}
+			.c {
+				transform:translate(0%,0);
+			}
+		}
+	}
 }
