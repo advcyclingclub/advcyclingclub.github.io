@@ -5,7 +5,7 @@
 <body>
 	{% include nav.html %}
 	<div class="content">
-		<div class="hero sections" style=" background-image: url('http://bootstrap-themes.github.io/marketing/assets/img/startup-1.jpg');">
+		<div id="hero" class="hero sections " style=" background-image: url('http://bootstrap-themes.github.io/marketing/assets/img/startup-1.jpg');">
 			<div class="hero-copy">
 				<div>
 		          
@@ -16,5 +16,12 @@
 		<h1>asdf</h1>
 		<a href="{{ post.url }}">{{ post.title }}</a>
 		{{ content }}
+		
+		<a href="#" class="col-md-4">
+			<div class="hover-action">
+				<span class="action-slash"></span>
+				<img src="http://placekitten.com/200/300">
+			</div>
+		</a>
 	</div>
 {% include footer.html %}

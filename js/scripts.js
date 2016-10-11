@@ -26,6 +26,7 @@ $('.thumbnail').click(function (e) {
 	e.preventDefault();
 });
 
+$('#hero').addClass('background-move');
 
 
 /*
