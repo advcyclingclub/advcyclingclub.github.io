@@ -30,7 +30,7 @@ init();
 $(window).scroll(function() {
 	scollPosition = $(window).scrollTop();
 	
-	console.log(scollPosition);
+	//console.log(scollPosition);
 	if (scollPosition > 200) {
 		$('.logo').addClass('active');
 	} else {
