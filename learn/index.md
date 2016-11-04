@@ -26,4 +26,59 @@ You can use about any bike to tour on not because something is special about the
 
 In the beginning Man made the wheel. Then Man made bikes. Right away Man started slapping bags onto bikes. This was less then ideal. Then Man made racks. Man started putting all sorts of stuff on racks. This was good and nothing much else happened. Then Man one day was in the shower and remembered Velcro, buckles, and straps (some of his previous inventions) and had a great idea to put them all together. Thus Man Made Bags Great Again™ and started slapping them onto bikes again. Thus Man reinvented the wheel.
 
-And thats why we have so many wonderful options to carry stuff on our bikes.
+And thats why we have so many wonderful options to carry stuff on our bikes. Yes pockets, backpacks, and even fanny packs exist, but for the sake of this topic they don't exist. To start we'll talk about the back of the bike, because everybuddy appreciates a good rear.
+
+
+### Rear
+
+#### Rear rack:  Platform
+
+#### Rear rack:  Panniers
+
+#### Saddle bags
+
+#### Saddle dongs
+
+
+
+### Front
+
+#### Handlebar bags
+
+#### Porter rack 
+
+#### Lowrider
+
+
+### Center
+
+#### Water bottle bosses
+
+#### Framebags
+
+#### Gastanks
+
+#### Under carriage 
+
+
+###  Other places
+
+#### Backpacks packs
+
+#### Fanny packs
+
+#### Pockets
+
+#### Stomachs
+
+Do I need to explain this
+
+
+
+
+
+
+
+
+
+
