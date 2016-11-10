@@ -55,27 +55,36 @@ A cousin of the mountain bike. More suited for off road touring then a regular m
 
 
 ### Hybrids
+Probably one of the most popular type of bikes sold in the United States. Hybrids stemmed from mating a horse and a donkey––I mean road bike and cruiser bike. They are reminiscent of old mountain bikes, but far to fragile for proper off roading. Pluses are they can accept large tires, have rack mounts, and generally have a wide range of gears. One of their "pluses" and why so many choose this type of bike is it's more upright riding position and straight handlebars (because people don't like "the swoopy ones"). This is all fine and great for short periods of riding, which most people use these for. However after hours in the saddle and hours with your hands in the same place all day long, you'll wish you had the handlebars that are "swoopy".
+
 
 ### Cross-bikes
+Designed for racing in mud, the tire clearance and stopping power has made these bikes popular. While the geometry is not ideal for carrying a heavy load, cross-bikes still are one of the most adaptable bikes one can own. Since most people don't race cross manufacturers add in the fender and rack mounts you are bound to want in the end. One of the best things about this bike are the brakes. Disc or good old canti. You'll have confident stopping power when you are descending down a mountain with thirty extra pounds of gear. While road bikes with calipers may want to take it easy. 
+
 
 
 ### Whatever bikes
-All-road, adventure bikes, Gravel grinders.
+All-road, Adventure bikes, Gravel grinders. These are somehow not cross-bikes, but something undefinable in between a roadbike and a cross-bike. They are basically just any bike designed to fit fat tires with geometry closer to ughhh... Either way they are made for adventure. Trust the manufacturer and go have one.
 
 
 ### Touring bikes
+Designed to carry heavy shit for long distances. That's the basic definition. I've broken it out into three different types. Road, dirt, and world.
 
 #### Road
+Your classic touring bike, at least to American standards. Designed with a bunch of features and geometry that makes traveling on pavement with a bunch of crap easier. Also built to not snap in half. These bikes started as steel cantilever bikes from the 60 and have progressed of the years. They can be made out of any material, but the classic features remain the same. Plenty of mounts for racks, water bottles, and fenders as well as a long wheel base for better control when carrying gear. These bikes were made for the open road and for rides like Bikecentennial.  
+
+#### World 
+The quintessential touring bike to nearly everyone in Europe and the rest of the world. A few things distinguish this bike from it's red blooded American cousin. For one they generally use 26" wheels, common in nearly every corner of the planet. Two, generally has upright (trekking) bars. Three, can be externally geared, but often found with internal gearing. It may sort of look like a mountain bike under all the baggage, but don't let that fool you. It is made to travel around the world and it has. 
+
 
 #### Dirt
-
-#### World tourers
-
+Fairly new in the world of bikes. Its a magical beast like a Griffin with all its mishmash of features. Tires edging near fat bikeness, dirt drops for multiple hand positions, and plenty of mounts for racks. I personally don't own one, but just like a Griffin, I want one.
 
 
+### Fixed/SingleSpeed
+No. Just don't. If thats the only bike you have then sorry you are S.O.L. in joining one of our group rides. 
 
-### Fixed
-...
+That said just because we don't allow fixed/SS bikes on our rides no matter how cool/strong your are doesn't mean its impossible to go on a rad ride on your fixie. You'll just be more likely to hate and or hurt yourself. Here is proof it can be done though.
 
 
 
