@@ -56,17 +56,19 @@ a:hover {
 }
 
 
-.logo {
+header .logo {
 	svg {
 		cursor: pointer;
 		g{
 			transform: translate(0,0);
 			transition: all .75s cubic-bezier(.61,.03,.32,.92)0ms;
 		}
+		
+		//  overflow: visible;
 	}
 	
 	path {
-		//transition: fill .75s cubic-bezier(.61,.03,.32,.92)0ms;
+		//transition: fill .5s cubic-bezier(.61,.03,.32,.92)0ms;
 	}
 	
 	&:hover {
@@ -77,25 +79,34 @@ a:hover {
 	
 	&.active {
 		.n {
-			  transform: translate(-150%,0);
+			  transform: translate(-350%,0);
 		}
 		.y {
-			transform: translate(-100%,0);
+			transform: translate(-500%,0);
 		}
 		.c {
+			transform:translate(-550%,0);
+		}
+		
+		.bolt {
 			transform:translate(-350%,0);
 		}
 		
+		.a {
+			  transform: translate(-700%,0);
+		}
+		.d {
+			  transform: translate(-950%,0);
+		}
+		.v {
+			  transform: translate(-1000%,0);
+		}
+		
 		&:hover {
-			.n {
+			.n, .y, .c, .bolt, .a, .d, .v {
 				  transform: translate(0%,0);
 			}
-			.y {
-				transform: translate(0%,0);
-			}
-			.c {
-				transform:translate(0%,0);
-			}
+			
 		}
 	}
 }

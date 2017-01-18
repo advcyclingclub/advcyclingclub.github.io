@@ -18,13 +18,16 @@ header {
 	
 	.logo {
 		position: relative;
-		left: 0;
-		top: 30px;
-		height: 60px;
-		width: 162px;
+		left: 20;
+		top: 20px;
+		height: 68px;
+		width: 240px;
+		padding-left: 20px;
 		display: block;
+		
 		svg {
 			  width: 100%;
+			  overflow: visible;
 		}
 	}
 }
