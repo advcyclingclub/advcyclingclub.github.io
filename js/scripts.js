@@ -32,9 +32,9 @@ $(window).scroll(function() {
 	
 	//console.log(scollPosition);
 	if (scollPosition > 200) {
-		$('.logo').addClass('active');
+		$('body').addClass('scrolled');
 	} else {
-		$('.logo').removeClass('active');
+		$('body').removeClass('scrolled');
 	}
 });
 

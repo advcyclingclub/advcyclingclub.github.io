@@ -67,46 +67,94 @@ header .logo {
 		//  overflow: visible;
 	}
 	
-	path {
-		//transition: fill .5s cubic-bezier(.61,.03,.32,.92)0ms;
-	}
 	
-	&:hover {
-		path {
-			//fill: #FFF;
-		}
-	}
-	
-	&.active {
-		.n {
-			  transform: translate(-350%,0);
-		}
-		.y {
-			transform: translate(-500%,0);
-		}
-		.c {
-			transform:translate(-550%,0);
-		}
-		
-		.bolt {
-			transform:translate(-350%,0);
-		}
-		
-		.a {
-			  transform: translate(-700%,0);
-		}
-		.d {
-			  transform: translate(-950%,0);
-		}
-		.v {
-			  transform: translate(-1000%,0);
-		}
-		
+}
+
+body.open {
+	.menu {
 		&:hover {
-			.n, .y, .c, .bolt, .a, .d, .v {
-				  transform: translate(0%,0);
+			div {
+				background: $secondaryBlue;
 			}
 			
 		}
+	} 
+}
+
+body.home {
+	
+	header .logo {
+		path {
+			fill: #FFF;
+		}
 	}
+	.menu div {
+		background: $white;
+	}
+	.menu:hover {
+		div {
+			background: $secondaryBlue;
+		}
+		
+	}
+}
+
+body.scrolled {
+	header {		
+	    .logo { 
+			path {
+				fill: $primaryBlue;
+			}
+	   			.n {
+	   				  transform: translate(-350%,0);
+	   			}
+	   			.y {
+	   				transform: translate(-500%,0);
+	   			}
+	   			.c {
+	   				transform:translate(-550%,0);
+	   			}
+		
+	   			.bolt {
+	   				transform:translate(-350%,0);
+	   			}
+		
+	   			.a {
+	   				  transform: translate(-700%,0);
+	   			}
+	   			.d {
+	   				  transform: translate(-950%,0);
+	   			}
+	   			.v {
+	   				  transform: translate(-1000%,0);
+	   			}
+		
+	   			&:hover {
+					path {
+						fill: $primaryBlue;
+					}
+	   				.n, .y, .c, .bolt, .a, .d, .v {
+	   					  transform: translate(0%,0);
+	   				}
+			
+	   			}
+				
+	
+	
+	   	}
+	}
+	
+	.menu {
+	    div{ 
+	   		background: $secondaryBlue;
+	   	}
+		
+		&:hover {
+			div {
+				background: $primaryBlue;
+			}
+			
+		}
+	}	
+	
 }

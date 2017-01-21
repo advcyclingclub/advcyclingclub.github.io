@@ -22,18 +22,31 @@ As with all bags and packs listed various sizes, weight, and levels of waterproo
 
 Two panniers paired up works best, it allows you to distribute the weight equally on both sides of the bike. This is important for handling. You can run one pannier in the back, just be mindful it changes the bike's center of gravity. Having two panniers in the back also gives you a larger platform to strap and lay things down onto. Be mindful that now things will be difficult to access and take on and off.
 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 #### Trunks
 Trunks are a wonderful addition to a rack. While it keeps you from throwing stuff on top of the rear rack it helps carry more important gear that you would like easy access to and are typically designed to stay out of the way from access or removing your panniers. 
 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
+
 #### Seatpost racks
 These are typically used on bikes that are unable to accept a rear rack. They clamp on your seatpost and allow you to attach a trunk on top and sometimes hang small pockets or bags off the side like panniers. While convenient to a point they can't carry much weight or volume. Plus side is they are pretty easily found and relatively cheap. However if you want to carry stuff on the rest of your bike and don't want to use a rack there are better options available.
+
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 #### Saddle bags
 A classic way of carrying stuff on your bike. They hang off your saddle and attach to your seatpost. Most people think of the tiny toolkit under your saddle, but these guys can get big. They have the easy access features and versatility like trunks, but don't require any special attachment or support system. Though those things can be really nice to help support the weight. You can always let it rest on your rear rack or gear if you need to. Be sure your saddle has the loops to attach the starts to (most all leather saddles do) otherwise you'll require adapters.
 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
+
 #### Seatpost bag (dongs)
 Your classic saddle bag is not the most universally friendly solution to carrying gear in the rear. The modern seatpost bags (I call them dongs) were introduced from the bikepacking  world and where designed to make carrying gear on mountain bikes easier through tight trails. Their simplicity and ability to attach to any bike makes them a great option. Depending on size they can't hold much and only have one opening making it difficult to get to the bottom of the bag. One other thing to look out for on saddle bags is that it is secured properly and not sagging onto the rear tire. Otherwise damage is bound occur.
+
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
 
 
 ## The center
@@ -41,20 +54,28 @@ Your classic saddle bag is not the most universally friendly solution to carryin
 #### Water bottle cages
 Bikes usually have enough bosses to attach at least one water bottle cage. Most have two pairs of bosses for the twice the useful two water bottle cages. These bosses usually hold water bottle cages and about 90% of people put water bottles in them. Though you don't have to limit yourself to hydration. Throw whatever you want in them if it works. Many companies make attachments for pumps and tools that piggy back on the bosses. This helps with ease of access, but also declutters your bags.
 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 #### Framebags
 Why not use all that empty space for something? Generally the space between your legs was reserved for what god gave you and water bottles. But it's the year 3030 and you have the freedom of choosing what's between your legs. Frame packs come in all different sizes. Most common are full bags and half bags. Half bags are great because you can still keep your water source where you had it before. Full bags mean you have to lug a hydration pack somewhere in reach or find a non traditional place to put those bottles. Smaller size bags are useful for tools and snacks, but if your frame has the room why not go bigger?
+
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
 
 
 
 #### Gastanks / Top tube bags
 Ughhhhgly (ATMO), but they are actually great for holding snacks and other easy access items so the name is fitting. There are two versions. One that attaches near the headset and the other near the seatpost.
 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
+
 
 #### Under carriage 
 Not the #1 place you would think about carrying something, but cyclists thought it would be a good idea to start putting shit under their bike. Just know that whatever you put down there will serve the duel purpose of its intended use as a fender. Certain bike frames come with water bottle bosses already down there. If yours don't you can always use hose clamps. 
 
 Traditionally it's meant to hold a third water bottle, but feel free to carry that jar of peanut butter, fuel for your stove, or whatever small cylindrical object you can jam in there. Be sure everything is secured tightly though.
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
 
 
 
@@ -63,26 +84,43 @@ Traditionally it's meant to hold a third water bottle, but feel free to carry th
 
 #### Handlebar bags
 Simple concept, usually small. Only limited by bar size/shape, and cables in the way. Anything larger and you'll need to support the bag with a rack of some kind. 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 #### Feed bags /  Drink holder bags
 Two very similar style bags. They attach to your handlebars on either side of your stem. They are sized and shaped to hold water bottles. Use it however you want. Note that some drink holder bags may not have a full bottom. This means stuff can fall out the bottom, so its not as useful as a closed off bag where you can throw small snacks in. Choose wisely.
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
 
 
 
 #### Randonneur bags
 Larger than a handle bar bag and can carry more and heavier stuff it needs supporting by a front rack. You can either use a full front rack to support it. Or use one of the many wonderful rando racks that attach to the fork crown and either mid fork braze-ons, canti posts, or p-clamps. 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 #### Baskets
 One of my favorite and most versatile options. They can carry anything, just throw in whatever you want to carry. A bag, multiple bags or even a case of beer. One thing a basket has on all the other bags though is that it doesn't matter if it gets dirty. Sometimes you'll need to carry wet or muddy items, trash you have to pack out, or firewood you want to pack in. To use you can zip tie them down to a front rack or get ones that are self standing and attach to the rack mounts on your dropouts. I prefer rack and zip ties just in case I ever feel like switching over to an actual bag.
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 #### Porter rack 
 If you need a larger platform or want to carry heavy stuff up front porter racks are the way to go. Throw just about anything on top of them. Whole stacks of firewood included. Use a porter bag or bungie a reg one on top. If you are clever or your rack has side rails you can attach panniers to the side.
 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/highres_447865599.jpg)
+
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/highres_450871630.jpg)
+
+
+
 #### Lowrider
 Attach small panniers to the sides of your front fork by using low-rider racks or a full front rack with pannier rails included. While this seems like a weird place to put weight on the bike as long as the weight is even and not too much it will help stabilize the steering. Though certain bike geometries are better than others for this. Forks with special braze-ons make attaching low-rider racks easy, though p-clamps work just as well. 
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 #### Fork mounts
 Special fork braze-ons or hose clamps on round fork stays (doesn't work with anything tapered) allow you to attach water bottle cages or "anything" cages to your bike. They are a light simple add on and if it's small enough you can strap just about anything to them.
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
 
 
 
