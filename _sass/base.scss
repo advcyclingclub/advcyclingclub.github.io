@@ -216,15 +216,28 @@ p {
 		background: rgba(0,0,0,0.25);
 	}
 	
-	h2 {
-		position: absolute;
-	}
 	video {
 		display: block;
 		width: 100%;
 	}
+	
+	.table {
+		h1,h2 {
+			color: #FFF;
+		}
+	}
 }
 
+.table {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+.table-cell {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
 
 .hero-wrapper {
 	
