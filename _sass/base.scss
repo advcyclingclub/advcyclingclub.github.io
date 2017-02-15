@@ -65,6 +65,11 @@ p {
 	}
 }
 
+.home {
+	.content {
+		padding-top: 40px;
+	}
+}
 
 .row {
 	width: 100%;
@@ -200,6 +205,26 @@ p {
 	width: 100%;
 	height: 100%;
 }
+
+.vid-hero {
+	position: relative;
+	
+	.shade {
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		background: rgba(0,0,0,0.25);
+	}
+	
+	h2 {
+		position: absolute;
+	}
+	video {
+		display: block;
+		width: 100%;
+	}
+}
+
 
 .hero-wrapper {
 	
