@@ -29,6 +29,7 @@ sass:
  sass_dir: _sass
  style: compressed	
 
+future: true
 # Build settings
 gems:
   - jekyll-feed

@@ -20,4 +20,19 @@ Our organization is a group of people and our event organizers are not guides. A
 
 ## Disclaimer 
 
-By participating in any of our events you agree to “bear all risks” and release the organizers and event hosts from claims, demands, and damages arising out of your use of the platform. Group organizers are not guides. Bicycling on public roads contains risk. Attendees understand and intend that this assumption of risk and release is binding upon their heirs, executors, and guests who are not active members of the New York Adventure Cycling Club Meetup group. Long story short, if you choose to join for rides, organizers are not responsible for participants health, safety, and/or well being.
+---
+
+#### TL;DR
+
+Long story short, if you choose to join for rides, organizers are not responsible for participants health, safety, and/or well being.
+
+---
+
+I acknowledge that by attending any and all events, I am assuming all risks, and agreeing to indemnify, not sue and release from liability the organizers of the New York City Adventure Cycling Club (NYC/ADV), their respective agents, volunteers, members, permit holders, sponsors, promoters and affiliates (collectively “released parties”), and that I am giving up substantial legal rights. 
+I am aware that the activities are hazardous and that I could be seriously injured or even killed. I am voluntarily participating in these activities with knowledge of the danger involved, and agree to assume any and all risks of bodily injury, death or property damage, whether those risks are known or unknown.
+
+In consideration of my entry and of my own free will, I, for myself, my heirs, executors, and administrators, forever waive, release, and give up any claims, demands, liability damages, costs, and expenses of any kind whatsoever, including personal injuries to me or wrongful death, against released parties, caused in whole or in part by my or others negligence or other fault of the parties or persons. I hereby waive release discharge hold harmless and agree to indemnify and not sue the sponsors of events, the organizers and any promoting organizations, property owners, law enforcement agencies, all public entities, special districts, and properties and their respective agents, officials, through or by which the events will be held (collectively, the “released parties”) from any and all rights and claims including claims arising from the released parties’ own negligence. I am aware of the potential natural or unnatural hazards and no medical insurance is provided by NYC Adventure Cycling Club or organizers. As an express condition of being permitted to participate in the events, I represent that I have observed tours of the type I now seek to participate in and have had the opportunity to inspect the tour itinerary. Whether or not I have exercised the foregoing opportunity, I further understand and accept that each of the foregoing conditions, as well as the participants pose a danger to me. I know, fully appreciate, and understand the scope, nature and extent of the risks involved in bicycle touring. I understand that by attending I am releasing the “released parties” from any and all liability. Additionally I understand that I may be photographed or video­taped by private persons, news and/or other media and these photographs or videos may be used commercially and/or by other parties.
+
+All riders are responsible for the mechanical functioning and safety of their own bikes. Helmets and brakes are required. Any issues resulting from mechanical issues with a riders bike is the sole responsibility of the owner/rider of that bike.
+
+The event route has been made available ahead of the tour date and I acknowledge that had I chosen to do so, I could have pre­ridden the course to identify any obstacles or obstructions. I understand that the route may change on the day of the ride and acknowledge and accept that alternate routes may be taken.
