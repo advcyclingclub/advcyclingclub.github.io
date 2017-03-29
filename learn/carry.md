@@ -22,7 +22,7 @@ As with all bags and packs listed various sizes, weight, and levels of waterproo
 
 Two panniers paired up works best, it allows you to distribute the weight equally on both sides of the bike. This is important for handling. You can run one pannier in the back, just be mindful it changes the bike's center of gravity. Having two panniers in the back also gives you a larger platform to strap and lay things down onto. Be mindful that now things will be difficult to access and take on and off.
 
-![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/rear_rack-01.jpg)
 
 
 #### Trunks
@@ -89,7 +89,8 @@ Simple concept, usually small. Only limited by bar size/shape, and cables in the
 
 #### Feed bags /  Drink holder bags
 Two very similar style bags. They attach to your handlebars on either side of your stem. They are sized and shaped to hold water bottles. Use it however you want. Note that some drink holder bags may not have a full bottom. This means stuff can fall out the bottom, so its not as useful as a closed off bag where you can throw small snacks in. Choose wisely.
-![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/stembag.jpg)
 
 
 
@@ -100,7 +101,8 @@ Larger than a handle bar bag and can carry more and heavier stuff it needs suppo
 
 #### Baskets
 One of my favorite and most versatile options. They can carry anything, just throw in whatever you want to carry. A bag, multiple bags or even a case of beer. One thing a basket has on all the other bags though is that it doesn't matter if it gets dirty. Sometimes you'll need to carry wet or muddy items, trash you have to pack out, or firewood you want to pack in. To use you can zip tie them down to a front rack or get ones that are self standing and attach to the rack mounts on your dropouts. I prefer rack and zip ties just in case I ever feel like switching over to an actual bag.
-![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/screenshot.png)
+
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/basket.jpg)
 
 
 #### Porter rack 
@@ -128,6 +130,8 @@ Special fork braze-ons or hose clamps on round fork stays (doesn't work with any
 
 #### Backpacks 
 Get the pack off your back. It's perfectly fine for commuting an hour or so, but carrying a bunch a stuff on your back at hours on end and possibly days on end will just be uncomfortable. You have other options, the bike can carry far much more stuff than you can. Plus backpacks are bound to make your back sweaty.
+
+![My helpful screenshot]({{ site.url }}/assets/learn/ride-setup/backpack-01.jpg)
 
 
 #### Hydration packs
