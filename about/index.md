@@ -17,7 +17,6 @@ Our rides range from **difficult** to **very difficult**. **Difficult**, *for th
 Our organization is a group of people and our event organizers are not guides. As such they reserve the right to deny any person from participating in a ride for any safety reason (see disclaimer below). We would love to have you along, but we want to make sure everyone has a safe and enjoyable time Our social mixer is every third Thursday of the month and is a perfect place to meet our members and ask questions. Check out our [Meetup group](http://www.meetup.com/NYC-Adventure-Cycling-Club/) to find out when our next social is.   
 
 
-
 ## Disclaimer 
 
 ---

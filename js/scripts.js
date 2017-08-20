@@ -31,7 +31,7 @@ $(window).scroll(function() {
 	scollPosition = $(window).scrollTop();
 	
 	//console.log(scollPosition);
-	if (scollPosition > 200) {
+	if (scollPosition > 80) {
 		$('body').addClass('scrolled');
 	} else {
 		$('body').removeClass('scrolled');

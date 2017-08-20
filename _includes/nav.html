@@ -15,17 +15,27 @@
 		<span>Menu</span>
 	</div>
 	<ul class="nav">
+		<li {% if page.url == '/' %} class="active"{% endif %}>
+			<a href="{{site.url}}">Home</a>
+		</li>
+		<li class="nav-divider"></li>
+	
 		<li class="nav-t">
 			<small>The Club</small>
 		</li>
-		<li>
-			<a href="#">About</a>
+		<li {% if page.url == '/about/' %} class="active"{% endif %}>
+			<a href="{{site.url}}/about">About</a>
 		</li>
+		<!--
 		<li>
-			<a href="#">People</a>
+			<a href="
+			">People</a>
 		</li>
-		<li class="active">
-			<a href="#">Disclaimer</a>
+			
+			<li class="active">
+		-->
+		<li>
+			<a href="{{site.url}}/about#disclaimer">Disclaimer</a>
 		<li>
 		<!-- <li>
 			<a href="http://nycadv.bigcartel.com/">Store</a>
@@ -34,6 +44,21 @@
 			<a href="https://www.meetup.com/NYC-Adventure-Cycling-Club/">Join on Meetup</a>
 		</li> -->
 		<li class="nav-divider"></li>
+		<li class="nav-t">
+			<small>Resources</small>
+		</li>
+		<li {% if page.url == '/map/' %} class="active"{% endif %}>
+			<a href="{{site.url}}/map">Map</a>
+		</li>
+		<!--
+		<li {% if page.url == '/routes/' %} class="active"{% endif %}>
+			<a href="{{site.url}}/map">Routes</a>
+		</li>
+			-->
+		<li {% if page.url == '/learn/' %} class="active"{% endif %}>
+			<a href="{{site.url}}/learn">Learn</a>
+		</li>	
+		<li class="nav-divider"></li>
 		
 		<li class="nav-t">
 			<small>Adventures</small>
@@ -41,9 +66,11 @@
 		<li>
 			<a href="https://www.meetup.com/NYC-Adventure-Cycling-Club/#upcoming">Upcoming rides</a>
 		</li>
+		<!--
 		<li>
 			<a href="https://nycadv.tumblr.com/">Blog</a>
 		</li>
+			-->
 		<li class="nav-divider"></li>
 		<li class="nav-t">
 			<small>Connect</small>
@@ -57,12 +84,6 @@
 		<li>
 			<a href="https://www.youtube.com/channel/UCMIecruS16qckKcMErfKvFQ">Youtube</a>
 		</li>
-		<li class="nav-divider"></li>
-		<li class="nav-t">
-			<small>Resources</small>
-		</li>
-		<li>
-			<a href="#">Learn</a>
-		</li>		
+		
 	</ul>
 </nav>	

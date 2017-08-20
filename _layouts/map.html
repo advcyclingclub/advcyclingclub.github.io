@@ -1,0 +1,23 @@
+---
+---
+
+{% include header.html %}
+<body>
+	{% include nav.html %}
+	<div class="content">
+		<div class="container">
+			<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<a href="{{ post.url }}">{{ post.title }}</a>
+				{{ content }}
+			</div>
+		</div>
+		<div class="container base-padding-bottom">	
+			<div class="col-lg-12">
+				<div class="map-wrapper">
+					<iframe src="https://www.google.com/maps/d/embed?mid=12IAhtFtVlze0VMnWwR7gaezqMkA" width="640" height="480"></iframe>
+				</div>
+			</div>
+		</div>
+		<div class="row">	
+	</div>
+{% include footer.html %}
