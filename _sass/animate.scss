@@ -1,0 +1,161 @@
+
+
+.background-move {
+	  transform: scale(1);
+	transition: all 5s cubic-bezier(.61,.03,.32,.92)0ms;
+}
+.hover-action {
+	overflow: hidden;
+	  position: relative;
+	  
+	  img {
+		  margin: 0;
+	  }
+}
+
+.action-slash {
+	position: absolute;
+	display: block;
+	z-index: 0;
+	top: 50%;
+	left: 50%;
+	width: 25%;
+	height: auto;
+	padding-bottom: 100%;
+	opacity: .75;
+	transform-origin: 50% 50%;
+	//transform: translateX(-50%) translateY(-50%) rotate(45deg) scale(0);
+	transform: translateX(-50%) translateY(-50%) skew(-25deg) scale(0);
+	transition: all .45s ease-in-out;	
+	background-color: $primaryBlue;
+	text-transform: UPPERCASE;
+}
+
+.action-slash-text-wrapper {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.action-slash-text-container {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+.action-slash-text {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: #FFF;
+}
+
+a:hover {
+	
+	.action-slash {
+	    transform: translateX(-50%) translateY(-50%) skew(-25deg) scale(6);
+	}
+	
+}
+
+
+header .logo {
+	svg {
+		cursor: pointer;
+		g{
+			transform: translate(0,0);
+			transition: all .75s cubic-bezier(.61,.03,.32,.92)0ms;
+		}
+		
+		//  overflow: visible;
+	}
+	
+	
+}
+
+body.open {
+	.menu {
+		&:hover {
+			div {
+				background: $secondaryBlue;
+			}
+			
+		}
+	} 
+}
+
+body.home {
+	
+	header .logo {
+		path {
+			fill: #FFF;
+		}
+	}
+	.menu div {
+		background: $white;
+	}
+	.menu:hover {
+		div {
+			background: $secondaryBlue;
+		}
+		
+	}
+}
+
+body.scrolled {
+	header {		
+	    .logo { 
+			path {
+				fill: $primaryBlue;
+			}
+	   			.n {
+	   				  transform: translate(-350%,0);
+	   			}
+	   			.y {
+	   				transform: translate(-500%,0);
+	   			}
+	   			.c {
+	   				transform:translate(-550%,0);
+	   			}
+		
+	   			.bolt {
+	   				transform:translate(-350%,0);
+	   			}
+		
+	   			.a {
+	   				  transform: translate(-700%,0);
+	   			}
+	   			.d {
+	   				  transform: translate(-950%,0);
+	   			}
+	   			.v {
+	   				  transform: translate(-1000%,0);
+	   			}
+		
+	   			&:hover {
+					path {
+						fill: $primaryBlue;
+					}
+	   				.n, .y, .c, .bolt, .a, .d, .v {
+	   					  transform: translate(0%,0);
+	   				}
+			
+	   			}
+				
+	
+	
+	   	}
+	}
+	
+	.menu {
+	    div{ 
+	   		background: $secondaryBlue;
+	   	}
+		
+		&:hover {
+			div {
+				background: $primaryBlue;
+			}
+			
+		}
+	}	
+	
+}

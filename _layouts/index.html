@@ -1,0 +1,111 @@
+---
+---
+
+{% include header.html %}
+<body class="home">
+	{% include nav.html %}
+	
+		<!--
+			<div id="hero" class="hero sections " style=" background-image: url('http://bootstrap-themes.github.io/marketing/assets/img/startup-1.jpg');">
+				<div class="hero-copy">
+					<div>
+			          Hi!
+			        </div>
+				</div>
+			</div>
+		-->
+		<div class="vid-hero">
+			<div class="shade">
+				<div class="table">
+					<div class=" table-cell">
+						<h2>Escape New York</h2>
+						<a href="http://meetup.com/NYC-Adventure-Cycling-Club/">Join the club</a> 
+						&mdash; or &mdash;
+						<a href="https://youtu.be/C25013ajY54">Watch last years shenanigans</a>
+					</div>
+				</div>
+			</div>
+			<video autoplay loop muted>
+				<source src="assets/video/NYC-ADV-2016.mp4" type="video/mp4">
+				<source src="assets/video/NYC-ADV-2016.ogv" type="video/ogg">
+				<source src="assets/video/NYC-ADV-2016.webm" type="video/webm">
+			</video>
+		</div>
+	<div class="content">	
+		<div class="container">
+			<div class="col-md-8  col-sm-offset-2 text-center">
+				<h1>The New York City <br>Adventure Cycling Club</h1>
+				<p>NYC/ADV is a group of like-minded adventurers that ride bikes and sleep outside (most of the time). We organize weekend overnights, tours, and brevets. Our meetups provide pier education and resources for budding adventure cyclists.</p> 
+				<p> <a href="https://www.meetup.com/NYC-Adventure-Cycling-Club/">Join the club and get outdoors.</a></p>
+			</div>
+		</div>
+
+		<div class="container base-padding-bottom">
+			<div class="col-md-4"> 
+				<a href="{{site.url}}/about">
+					<div class="hover-action">
+						<span class="action-slash"></span>
+						<div class="action-slash-text-wrapper">
+							<div class="action-slash-text-container">
+								<span class="action-slash-text uppper">About</span>
+							</div>	
+						</div>
+						<img src="{{site.url}}/img/about.jpg">
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4"> 
+				<a href="{{site.url}}/map">
+					<div class="hover-action">
+						<span class="action-slash"></span>
+						<div class="action-slash-text-wrapper">
+							<div class="action-slash-text-container">
+								<span class="action-slash-text uppper">Map</span>
+							</div>	
+						</div>
+						<img src="{{site.url}}/img/blog-image.jpg">
+					</div>
+				</a>
+			</div>
+			
+			<!-- 
+			<div class="col-md-4"> 
+				<a href="{{site.url}}/blog">
+					<div class="hover-action">
+						<span class="action-slash"></span>
+						<div class="action-slash-text-wrapper">
+							<div class="action-slash-text-container">
+								<span class="action-slash-text uppper">Blog</span>
+							</div>	
+						</div>
+						<img src="{{site.url}}/img/blog-image.jpg">
+					</div>
+				</a>
+			</div>
+			-->
+			<div class="col-md-4"> 
+				<a href="{{site.url}}/learn">
+					<div class="hover-action">
+						<span class="action-slash"></span>
+						<div class="action-slash-text-wrapper">
+							<div class="action-slash-text-container">
+								<span class="action-slash-text uppper">Touring Resources</span>
+							</div>	
+						</div>
+						<img src="{{site.url}}/img/learn.jpg">
+						
+					</div>
+				</a>
+			</div>
+		</div>
+		
+		
+		
+		<!-- 
+		<div class="ending-photo">
+			<img src="http://placehold.it/600x400">
+		</div>
+			-->
+		
+	</div>
+{% include footer.html %}
