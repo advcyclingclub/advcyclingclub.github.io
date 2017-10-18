@@ -11,14 +11,13 @@ date: 2016-10-07 10:11:18 -0400
 
 Thats the whole point of touring. Its the mantra you'll be telling yourself time and again when you are out on a tour. It might when your are tired and facing a grueling climb to camp. When you its rainy or cold out and all you want to do is stay in your sleeping bag. And more likely than not its what you'll have to tell yourself even before your step out your door. Adventures are meant to be exciting, unknown, and challenging. 
 
-## People
-(Dif between touring and expeditions) You need to be nice.
+## Packing list
+
+Don't know what to bring on a trip? Take a look at: [A Basic Packing List](/learn/packing-list). 
 
 
 
 ## The bike
-
-
 
 You can use about any bike at your disposal to tour on. If it has two wheels and you can pedal––then it can take you places. Some limit the terrain you are able to travel on, but the real limit is how to carry your necessities and all the other stuff you are bound to bring with you. Go here to learn [How to carry S#*T](/learn/carry). 
 
